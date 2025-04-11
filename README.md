@@ -10,7 +10,8 @@ We need to abide by copyright law. When you make a contribution you "own it" by 
 the terms for how your contribution can be used. For private repositories or specially-licensed projects, we need to make sure
 that the "guardian" (tscircuit) is able to relicense or use flexibly for the success of the company.
 
-If you have not been asked to sign a CLA, you don't need to. We ask people to sign the CLA when
+If you have not been asked to sign a CLA, you don't need to. We ask people to sign the CLA when they're making special contributions
+or contributing to private repos.
 
 There are no exceptions to the CLA rule for private contributions. Future investors of tscircuit _will_ check that every contribution
 to tscircuit is safe from copyright liabilities.
