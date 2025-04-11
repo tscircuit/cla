@@ -54,7 +54,3 @@ Please sign below:
 **Email:** _____________________________________  
 **Signature:** _________________________________  
 **Date:** ______________________________________
-
----
-
-Would you like me to format this as a downloadable PDF or plain text file? Or adapt it for electronic signature (e.g. DocuSign)?
